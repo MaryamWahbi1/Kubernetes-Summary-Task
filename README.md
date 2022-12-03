@@ -20,7 +20,7 @@ http://.../bitcoin → bitcoin service
 docker pull maryamwahbi/jenkinshw
 docker run -d -p 8001:5005 maryamwahbi/jenkinshw:latest
 ```
-[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet_image.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet_image.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet_image.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet_image.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet_image.PNG?raw=true")
+[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true")
 
 ##### Run Bitcoin image from DockerHub
 ```shell
