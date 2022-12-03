@@ -146,11 +146,12 @@ cd Kubernetes-Summary-Task
 ```shell
 minikube start
 ```
-#### 4. enable ingress addons
+#### 4. Enable ingress addons
 ```shell
 minikube addons list
 minikube addons enable ingress
 ```
+[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/addons.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/addons.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/addons.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/addons.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/addons.PNG?raw=true")
 #### 5. Namespaces - isolating groups
 ```shell
 kubectl get po
@@ -161,9 +162,12 @@ kubectl -n ingress-nginx get po
 #### 6. Apply Deployment
 ```shell
 kubectl apply -f .
+kubectl get po
 kubectl get po,services
 ```
+[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/apply.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/apply.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/apply.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/apply.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/apply.PNG?raw=true")
 
+[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/getpo.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/getpo.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/getpo.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/getpo.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/getpo.PNG?raw=true")
 #### 7. Start minikube tunnel
 ```shell
 minikube tunnel
