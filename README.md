@@ -172,7 +172,7 @@ kubectl get po,services
 ```shell
 minikube tunnel
 ```
-#### 8. Now,You can visit the websites using:
+#### 8. Now, you can visit the websites using:
 - http://localhost/bitcoin
 - http://localhost/ynet
 
