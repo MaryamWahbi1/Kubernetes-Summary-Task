@@ -17,8 +17,8 @@ http://.../bitcoin → bitcoin service
 
 ##### Run Ynet image from DockerHub
 ```shell
-docker pull maryamwahbi/jenkinshw
-docker run -d -p 8001:5005 maryamwahbi/jenkinshw:latest
+docker pull maryamwahbi/ynet
+docker run -d -p  8081:8081 maryamwahbi/ynet:latest
 ```
 [![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynetimage.PNG?raw=true")
 
