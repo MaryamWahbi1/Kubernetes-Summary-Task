@@ -174,8 +174,15 @@ minikube tunnel
 ```
 #### 8. Now, you can visit the websites using:
 - http://localhost/bitcoin
+
+[![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true")
+
+------------
+
+
 - http://localhost/ynet
 
+[![](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet.PNG?raw=true)](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/ynet.PNG?raw=true)
 ------------
 ### Delete Minikube
 If you want to delete Minikube, run the following command:
