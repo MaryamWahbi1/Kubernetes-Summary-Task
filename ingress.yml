@@ -19,7 +19,7 @@ spec:
           service:
             name: ynet
             port:
-              number: 80
+              number: 8081
       - path: /bitcoin(/|$)(.*) 
         pathType: Prefix
         backend:
@@ -33,4 +33,4 @@ spec:
           service:
             name: ynet
             port:
-              number: 80
+              number: 8081
