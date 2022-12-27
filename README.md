@@ -87,7 +87,7 @@ docker run -d -p  8081:8081 maryamwahbi/ynet:latest
 
 ```shell
 docker pull maryamwahbi/python-flask-ci
-docker run -d -p 8000:5000 maryamwahbi/python-flask-ci:latest
+docker run -d -p 5000:5000 maryamwahbi/python-flask-ci:latest
 ```
 
 [![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bitcoin_image.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bitcoin_image.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bitcoin_image.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bitcoin_image.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bitcoin_image.PNG?raw=true")
