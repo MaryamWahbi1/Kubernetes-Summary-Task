@@ -60,8 +60,6 @@ minikube tunnel
 
 [![https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true")](https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true "https://github.com/MaryamWahbi1/Kubernetes-Summary-Task/blob/master/screenshots/bit.PNG?raw=true")
 
-------------
-
 
 - http://localhost/ynet
 
@@ -111,3 +109,18 @@ If you want to delete  deployment, run the following command:
 kubectl delete --all po,deploy,svc,ingress,statefulset --force --grace-period 0
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
