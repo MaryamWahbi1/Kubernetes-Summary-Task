@@ -19,7 +19,6 @@ spec:
         app: ynet
     spec:
       containers: 
-      # The First Container
       - name: ynet
         image: maryamwahbi/ynet
         ports:
