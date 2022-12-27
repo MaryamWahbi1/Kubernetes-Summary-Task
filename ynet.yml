@@ -23,7 +23,7 @@ spec:
       - name: ynet
         image: maryamwahbi/ynet
         ports:
-        - containerPort: 80
+        - containerPort: 8081
         env:
         - name: TITLE
           value: "Welcome to Ingress One" 
@@ -37,6 +37,6 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-  - port: 80
+  - port: 8081
   selector:
     app: ynet
